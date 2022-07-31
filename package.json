@@ -1,0 +1,41 @@
+{
+  "name": "basit-sozluk",
+  "version": "1.0.0",
+  "description": "Türk Dil Kurumunun sözlüğünden kelimelerin kolay bir şekilde sorgulanmasını sağlayan wrapper.",
+  "main": "sozluk.js",
+  "homepage": "https://github.com/furkansimsekli/basit-sozluk#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/furkansimsekli/basit-sozluk.git"
+  },
+  "keywords": [
+    "türkçe",
+    "turkce",
+    "sözlük",
+    "sozluk",
+    "kelime",
+    "tdk",
+    "türk",
+    "dil",
+    "kurumu",
+    "api",
+    "API",
+    "wrapper",
+    "simple",
+    "basit",
+    "atasözleri",
+    "deyimler",
+    "anlam",
+    "isim",
+    "fiil",
+    "kolay"
+  ],
+  "author": "furkansimsekli",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
