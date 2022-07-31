@@ -55,7 +55,7 @@ Kelimelerin anlam sayısı arttıkça `api_query` oldukça uzun ve karışık bi
 
 ## Nasıl Katkıda Bulunulur?
 
-[GitHub](https://github.com/furkansimsekli/basit-sozluk) üzerinden yaptığınız düzenlemeleri [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) ile paylaşabilirsiniz! 
+Yaptığınız düzenlemeleri [GitHub](https://github.com/furkansimsekli/basit-sozluk) üzerinden [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) ile paylaşabilirsiniz! 
 
 ## License
 [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
